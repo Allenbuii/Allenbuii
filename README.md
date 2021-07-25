@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Allenbuii
-- 👀 I’m interested in coding
+- 👀 I’m interested in Software Engineering and Web Developer
 - 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on github and vsc
 - 📫 How to reach me: Facebook => https://www.facebook.com/allen.bui.9083
